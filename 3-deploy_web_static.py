@@ -6,7 +6,7 @@ import os
 import shlex
 
 
-env.hosts = env.hosts = ['100.26.240.75', '54.164.78.255']
+env.hosts = ['100.26.240.75', '54.164.78.255']
 env.user = "ubuntu"
 
 
